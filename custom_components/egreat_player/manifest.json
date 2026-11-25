@@ -9,10 +9,10 @@
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/liujun1223/custom_components/blob/main/README.md",
+  "documentation": "https://github.com/liujun1223/egreat_player/blob/main/README.md",
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/liujun1223/custom_components/issues",
+  "issue_tracker": "https://github.com/liujun1223/egreat_player/issues",
   "ssdp": [
     {
       "st": "urn:schemas-upnp-org:device:MediaRenderer:1"
@@ -21,5 +21,5 @@
       "st": "urn:schemas-upnp-org:device:MediaRenderer:2"
     }
   ],
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

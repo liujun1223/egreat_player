@@ -21,7 +21,7 @@
 如果 HACS 搜索不到（例如使用的 HACS 版本较旧或缓存未更新）：
 
 1. HACS → Integrations → 右上角 ⋮ → Custom repositories
-2. 填入 `https://github.com/liujun1223/custom_components`，类别选 Integration
+2. 填入 `https://github.com/liujun1223/egreat_player`，类别选 Integration
 3. 搜索并安装 "Egreat Player"，重启 HA
 
 ### 手动安装
@@ -43,4 +43,4 @@
 
 ## 反馈
 
-[提交 Issue](https://github.com/liujun1223/custom_components/issues)
+[提交 Issue](https://github.com/liujun1223/egreat_player/issues)
